@@ -1,5 +1,3 @@
-# QuantumLeap
-Team Unity Game
 # COSC 4358
 Introduction to Interactive Game Development
 
@@ -9,8 +7,9 @@ Here we post everything relevant to our project to keep us updated and informed 
 
 SCEHDULE PLANNER
 
-| Team Project @ least one person needs to attend     	| 10/3/19  	|            	|
+| [Unity] Hands-on Training 3 - Brian Holtkamp        	| 10/1/19  	|            	|
 |-----------------------------------------------------	|----------	|------------	|
+| Team Project @ least one person needs to attend     	| 10/3/19  	|            	|
 | Rank D Duel - Day 1                                 	| 10/8/19  	|            	|
 | Rank D Duel - Day 2                                 	| 10/10/19 	|            	|
 | Rank D Duel - Day 3                                 	| 10/15/19 	|            	|
